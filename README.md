@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alchemistt
+- 👋 Hi, I’m Tushar Budhiraja
 - 👀 I’m interested in Web devlopment
 - 📫 Reach me at tusharbudhiraja01@gmail.com 
 
